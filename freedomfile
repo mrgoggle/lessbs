@@ -52,7 +52,7 @@ $discard,site=dailystar.co.uk
 $discard,site=jezebel.com
 $discard,site=dailymail.co.uk
 $discard,site=crunchyroll.com
-$discard,site=animenewsnetwork.com/forums
+$discard,site=animenewsnetwork.com
 
 $downrank=5,site=polygon.com
 $downrank=5,site=gameinformer.com
