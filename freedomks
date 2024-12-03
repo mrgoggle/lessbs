@@ -15,6 +15,7 @@ $boost=5,site=aki-h.com
 $boost=5,site=rorikon.com
 $boost=5,site=libertarianism.org
 $boost=4,site=2ch.net
+$boost=4,site=onlyhgames.com
 $boost=4,site=x.com
 $boost=4,site=nichegamer.com
 $boost=4,site=eff.org  
@@ -64,6 +65,7 @@ $discard,site=jeuxvideo.com
 $discard,site=metacritic.com
 $discard,site=anthonyricciolaw.com
 $discard,site=gamespot.com
+$discard,site=steamcommunity.com
 
 
 
