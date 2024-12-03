@@ -57,6 +57,10 @@ $discard,site=aerlawgroup.com
 $discard,site=shouselaw.com
 $discard,site=fordham.edu
 $discard,site=imageandnarrative.be
+$discard,site=justanswer.com
+$discard,site=avvo.com
+
+
 
 
 $downrank=5,site=polygon.com
