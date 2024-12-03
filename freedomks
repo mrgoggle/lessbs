@@ -22,6 +22,25 @@ $boost=4,site=eff.org
 $boost=3,site=thefederalist.com
 $boost=3,site=anix.sh
 
+
+$downrank=5,site=uoregon.edu
+$downrank=5,site=losangelessexcrimeattorney.com
+$downrank=5,site=treatmyocd.com
+$downrank=5,site=federalcriminaldefenseadvocates.com
+$downrank=5,site=thefederalcriminalattorneys.com
+$downrank=5,site=aerlawgroup.com
+$downrank=5,site=shouselaw.com
+$downrank=5,site=fordham.edu
+$downrank=5,site=imageandnarrative.be
+$downrank=5,site=justanswer.com
+$downrank=5,site=avvo.com
+$downrank=5,site=jeuxvideo.com
+$downrank=5,site=metacritic.com
+$downrank=5,site=anthonyricciolaw.com
+$downrank=5,site=gamespot.com
+$downrank=5,site=steamcommunity.com
+$downrank=5,site=thesociologicalmail.com
+
 $discard,site=reddit.com
 $discard,site=bbc.co.uk
 $discard,site=motherboard.vice.com
@@ -67,6 +86,7 @@ $discard,site=metacritic.com
 $discard,site=anthonyricciolaw.com
 $discard,site=gamespot.com
 $discard,site=steamcommunity.com
+$discard,site=thesociologicalmail.com
 
 
 
