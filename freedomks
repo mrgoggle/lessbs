@@ -89,6 +89,9 @@ $discard,site=gamespot.com
 $discard,site=steamcommunity.com
 $discard,site=thesociologicalmail.com
 $discard,site=muse.jhu.edu
+$discard,site=myanimelist.net,
+$discard,site=bungie.net,
+
 
 
 
