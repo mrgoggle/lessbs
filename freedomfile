@@ -16,6 +16,7 @@ $boost=3,site=americanthinker.com
 
 $discard,site=reddit.com
 $discard,site=bbc.co.uk
+$discard,site=*.co.uk
 $discard,site=motherboard.vice.com
 $discard,site=theguardian.com
 $discard,site=nytimes.com
