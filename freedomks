@@ -60,6 +60,7 @@ $discard,site=imageandnarrative.be
 
 
 $downrank=5,site=polygon.com
+$downrank=5,site=quora.com
 $downrank=5,site=gameinformer.com
 
 $boost=3,site=freedomhouse.org
