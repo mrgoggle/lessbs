@@ -53,7 +53,7 @@ $boost=3,site=thefiscaltimes.com
 $downrank=3,site=aclu.org
 
 $downrank,site=.edu
-$discard,site=/.edu^
+$discard,site=.edu
 
 ! Target hypersexualization keywords and derank results matching them
 Hypersexualization$downrank
