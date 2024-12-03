@@ -3,7 +3,6 @@
 ! public: true
 ! author: Goggles
 
-
 $discard
 $boost=5,site=reason.com
 $boost=5,site=libertarianism.org
@@ -54,11 +53,10 @@ $downrank=5,site=gameinformer.com
 $downrank=5,site=themarysue.com
 $downrank=5,site=dailystar.co.uk
 $downrank=5,site=jezebel.com
+$downrank=5,site=dailymail.co.uk
+$downrank=5,site=crunchyroll.com
 
 $boost=3,site=freedomhouse.org
 $boost=3,site=thevolokhconspiracy.com
-$boost=3,site=projectveritas.com
-$boost=3,site=theblaze.com
-$boost=3,site=thefiscaltimes.com
 
 $downrank=3,site=aclu.org
