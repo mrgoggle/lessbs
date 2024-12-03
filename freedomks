@@ -10,17 +10,20 @@ $boost=5,site=fantia.net
 $boost=5,site=ci-en.net
 $boost=5,site=dlsite.net
 $boost=5,site=dlsite.com
+$boost=5,site=veohentai.com
 $boost=5,site=h-inn.com
 $boost=5,site=aki-h.com
 $boost=5,site=rorikon.com
 $boost=5,site=libertarianism.org
 $boost=4,site=2ch.net
 $boost=4,site=onlyhgames.com
+$boost=4,site=h-anime.net
 $boost=4,site=x.com
 $boost=4,site=nichegamer.com
 $boost=4,site=eff.org  
 $boost=3,site=thefederalist.com
 $boost=3,site=anix.sh
+$boost=3,site=mansuji.pretty-girls.sexy
 
 
 $downrank=5,site=uoregon.edu
