@@ -45,7 +45,7 @@ $downrank=5,site=404media.net
 $downrank=5,site=dailydot.com
 $downrank=5,site=motherboard.vice.com
 
-$downrank=3,site=reddit.com
+$downrank=4,site=reddit.com
 
 $boost=3,site=freedomhouse.org
 $boost=3,site=thevolokhconspiracy.com
