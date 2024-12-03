@@ -1,5 +1,5 @@
-! name: Libertarian & Freedom of Speech Boost with Censorship & DEI Derank
-! description: Boosts content related to freedom, liberty, free speech while deranking or blacklisting DEI, inclusivity, and censorship content.
+! name: Libertarian & Freedom of Speech Boost with Hypersexualization and .edu Derank
+! description: Boosts content related to freedom, liberty, and free speech while deranking hypersexualization and .edu domains.
 ! public: true
 ! author: Goggles
 
@@ -10,7 +10,6 @@ $boost=4,site=x.com
 $boost=4,site=nichegamer.com
 $boost=4,site=eff.org  
 $boost=3,site=thefederalist.com
-
 
 $discard,site=reddit.com
 $discard,site=bbc.co.uk
@@ -52,3 +51,11 @@ $boost=3,site=theblaze.com
 $boost=3,site=thefiscaltimes.com
 
 $downrank=3,site=aclu.org
+
+$downrank,site=.edu
+$discard,site=.edu
+
+! Target hypersexualization keywords and derank results matching them
+hypersexual$downrank
+sexualization$downrank
+hypersexualization$downrank
