@@ -40,6 +40,13 @@ $discard,site=jezebel.com
 $discard,site=dailymail.co.uk
 $discard,site=crunchyroll.com
 $discard,site=animenewsnetwork.com
+$discard,site=uoregon.edu
+$discard,site=losangelessexcrimeattorney.com
+$discard,site=treatmyocd.com
+$discard,site=federalcriminaldefenseadvocates.com
+$discard,site=thefederalcriminalattorneys.com
+$discard,site=aerlawgroup.com
+$discard,site=shouselaw.com
 
 $downrank=5,site=polygon.com
 $downrank=5,site=gameinformer.com
