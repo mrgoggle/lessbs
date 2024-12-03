@@ -1,0 +1,56 @@
+! name: Libertarian & Freedom of Speech Boost with Censorship & DEI Derank
+! description: Boosts content related to freedom, liberty, free speech while deranking or blacklisting DEI, inclusivity, and censorship content.
+! public: true
+! author: Goggles
+
+$boost=5,site=reason.com
+$boost=5,site=libertarianism.org
+$boost=5,site=lewrockwell.com
+$boost=4,site=2ch.net
+$boost=4,site=x.com
+$boost=4,site=nichegamer.com
+$boost=4,site=stackoverflow.com
+$boost=4,site=news.ycombinator.com  
+$boost=4,site=eff.org  
+$boost=3,site=thefederalist.com
+$boost=3,site=thegatewaypundit.com
+$boost=3,site=dailywire.com
+$boost=3,site=rumble.com
+$boost=3,site=americanthinker.com
+$boost=3,site=theepochtimes.com
+$boost=3,site=infowars.com
+$boost=3,site=pressfreedom.org
+$boost=3,site=theintercept.com
+$boost=3,site=freebeacon.com
+$boost=3,site=liveactionnews.org
+
+$downrank=5,site=nbcnews.com
+$downrank=5,site=vox.com
+$downrank=5,site=politi.co
+$downrank=5,site=cnn.com
+$downrank=5,site=msnbc.com
+$downrank=5,site=washingtonpost.com
+$downrank=5,site=nytimes.com
+$downrank=5,site=theguardian.com
+$downrank=5,site=bbc.co.uk
+$downrank=5,site=huffpost.com
+$downrank=5,site=nydailynews.com
+$downrank=5,site=theregister.com
+$downrank=5,site=theverge.com
+$downrank=5,site=businessinsider.com
+$downrank=5,site=marketwatch.com
+$downrank=5,site=404media.net
+$downrank=5,site=dailydot.com
+$downrank=5,site=motherboard.vice.com
+
+$downrank=3,site=reddit.com
+
+$boost=3,site=freedomhouse.org
+$boost=3,site=thevolokhconspiracy.com
+$boost=3,site=projectveritas.com
+$boost=3,site=theblaze.com
+$boost=3,site=thefiscaltimes.com
+
+$downrank=3,site=aclu.org
+
+$nofilter=true
