@@ -4,6 +4,9 @@
 ! author: Goggles
 
 $boost=5,site=reason.com
+$boost=5,site=pixiv.net
+$boost=5,site=h-inn.com
+$boost=5,site=rorikon.com
 $boost=5,site=libertarianism.org
 $boost=4,site=2ch.net
 $boost=4,site=x.com
