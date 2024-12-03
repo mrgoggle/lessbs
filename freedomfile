@@ -11,22 +11,15 @@ $boost=4,site=x.com
 $boost=4,site=nichegamer.com
 $boost=4,site=eff.org  
 $boost=3,site=thefederalist.com
-$boost=3,site=thegatewaypundit.com
-$boost=3,site=dailywire.com
-$boost=3,site=rumble.com
 $boost=3,site=americanthinker.com
-$boost=3,site=theepochtimes.com
-$boost=3,site=infowars.com
-$boost=3,site=pressfreedom.org
-$boost=3,site=theintercept.com
-$boost=3,site=freebeacon.com
-$boost=3,site=liveactionnews.org
+
 
 $discard,site=reddit.com
 $discard,site=bbc.co.uk
 $discard,site=motherboard.vice.com
 $discard,site=theguardian.com
 $discard,site=nytimes.com
+$discard,site=dailywire.com
 $discard,site=washingtonpost.com
 $discard,site=huffpost.com
 $discard,site=nydailynews.com
