@@ -45,7 +45,15 @@ $downrank=5,site=404media.net
 $downrank=5,site=dailydot.com
 $downrank=5,site=motherboard.vice.com
 
-$downrank=4,site=reddit.com
+$downrank=5,site=reddit.com
+$downrank=5,site=ign.com
+$downrank=5,site=kotaku.com
+$downrank=5,site=polygon.com
+$downrank=5,site=kotaku.com
+$downrank=5,site=gameinformer.com
+$downrank=5,site=themarysue.com
+$downrank=5,site=dailystar.co.uk
+$downrank=5,site=jezebel.com
 
 $boost=3,site=freedomhouse.org
 $boost=3,site=thevolokhconspiracy.com
@@ -54,5 +62,3 @@ $boost=3,site=theblaze.com
 $boost=3,site=thefiscaltimes.com
 
 $downrank=3,site=aclu.org
-
-  
