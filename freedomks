@@ -40,6 +40,7 @@ $downrank=5,site=anthonyricciolaw.com
 $downrank=5,site=gamespot.com
 $downrank=5,site=steamcommunity.com
 $downrank=5,site=thesociologicalmail.com
+$downrank=5,site=muse.jhu.edu
 
 $discard,site=reddit.com
 $discard,site=bbc.co.uk
@@ -87,6 +88,8 @@ $discard,site=anthonyricciolaw.com
 $discard,site=gamespot.com
 $discard,site=steamcommunity.com
 $discard,site=thesociologicalmail.com
+$discard,site=muse.jhu.edu
+
 
 
 
