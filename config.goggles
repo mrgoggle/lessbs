@@ -1,6 +1,7 @@
 ! name: Libertarian & Freedom of Speech Boost with Censorship & DEI Derank
 ! description: Boosts content related to freedom, liberty, free speech while deranking or blacklisting DEI, inclusivity, and censorship content.
 ! public: true
+! author: Libertarian
 
 $boost=5,site=reason.com
 $boost=5,site=libertarianism.org
