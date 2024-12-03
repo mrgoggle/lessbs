@@ -5,6 +5,11 @@
 
 $boost=5,site=reason.com
 $boost=5,site=pixiv.net
+$boost=5,site=fanbox.cc
+$boost=5,site=fantia.net
+$boost=5,site=ci-en.net
+$boost=5,site=dlsite.net
+$boost=5,site=dlsite.com
 $boost=5,site=h-inn.com
 $boost=5,site=rorikon.com
 $boost=5,site=libertarianism.org
@@ -51,6 +56,7 @@ $discard,site=thefederalcriminalattorneys.com
 $discard,site=aerlawgroup.com
 $discard,site=shouselaw.com
 $discard,site=fordham.edu
+$discard,site=imageandnarrative.be
 
 
 $downrank=5,site=polygon.com
