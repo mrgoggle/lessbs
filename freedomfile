@@ -3,7 +3,6 @@
 ! public: true
 ! author: Goggles
 
-$discard
 $boost=5,site=reason.com
 $boost=5,site=libertarianism.org
 $boost=5,site=lewrockwell.com
