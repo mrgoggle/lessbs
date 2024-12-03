@@ -1,0 +1,61 @@
+! name: Libertarian & Freedom of Speech Boost with Hypersexualization and .edu Derank
+! description: Boosts content related to freedom, liberty, and free speech while deranking hypersexualization and .edu domains.
+! public: true
+! author: Goggles
+
+$boost=5,site=reason.com
+$boost=5,site=libertarianism.org
+$boost=4,site=2ch.net
+$boost=4,site=x.com
+$boost=4,site=nichegamer.com
+$boost=4,site=eff.org  
+$boost=3,site=thefederalist.com
+
+$discard,site=reddit.com
+$discard,site=bbc.co.uk
+$discard,site=motherboard.vice.com
+$discard,site=theguardian.com
+$discard,site=nytimes.com
+$discard,site=dailywire.com
+$discard,site=washingtonpost.com
+$discard,site=huffpost.com
+$discard,site=nydailynews.com
+$discard,site=theregister.com
+$discard,site=theverge.com
+$discard,site=businessinsider.com
+$discard,site=marketwatch.com
+$discard,site=404media.net
+$discard,site=dailydot.com
+$discard,site=vox.com
+$discard,site=politi.co
+$discard,site=cnn.com
+$discard,site=msnbc.com
+$discard,site=ign.com
+$discard,site=kotaku.com
+$discard,site=polygon.com
+$discard,site=gameinformer.com
+$discard,site=themarysue.com
+$discard,site=dailystar.co.uk
+$discard,site=jezebel.com
+$discard,site=dailymail.co.uk
+$discard,site=crunchyroll.com
+$discard,site=animenewsnetwork.com
+
+$downrank=5,site=polygon.com
+$downrank=5,site=gameinformer.com
+
+$boost=3,site=freedomhouse.org
+$boost=3,site=thevolokhconspiracy.com
+$boost=3,site=projectveritas.com
+$boost=3,site=theblaze.com
+$boost=3,site=thefiscaltimes.com
+
+$downrank=3,site=aclu.org
+
+$downrank,site=.edu
+$discard,site=/.edu^
+
+! Target hypersexualization keywords and derank results matching them
+Hypersexualization$downrank
+sexualization$downrank
+hypersexualization$downrank
