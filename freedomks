@@ -4,6 +4,8 @@
 ! author: Goggles
 
 $boost=5,site=reason.com
+$boost=5,site=dmm.com
+$boost=5,site=getchu.com
 $boost=5,site=pixiv.net
 $boost=5,site=fanbox.cc
 $boost=5,site=fantia.net
