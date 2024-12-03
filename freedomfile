@@ -9,8 +9,6 @@ $boost=5,site=lewrockwell.com
 $boost=4,site=2ch.net
 $boost=4,site=x.com
 $boost=4,site=nichegamer.com
-$boost=4,site=stackoverflow.com
-$boost=4,site=news.ycombinator.com  
 $boost=4,site=eff.org  
 $boost=3,site=thefederalist.com
 $boost=3,site=thegatewaypundit.com
