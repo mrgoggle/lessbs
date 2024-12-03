@@ -5,13 +5,11 @@
 
 $boost=5,site=reason.com
 $boost=5,site=libertarianism.org
-$boost=5,site=lewrockwell.com
 $boost=4,site=2ch.net
 $boost=4,site=x.com
 $boost=4,site=nichegamer.com
 $boost=4,site=eff.org  
 $boost=3,site=thefederalist.com
-$boost=3,site=americanthinker.com
 
 
 $discard,site=reddit.com
