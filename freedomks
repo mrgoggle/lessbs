@@ -50,6 +50,8 @@ $discard,site=federalcriminaldefenseadvocates.com
 $discard,site=thefederalcriminalattorneys.com
 $discard,site=aerlawgroup.com
 $discard,site=shouselaw.com
+$discard,site=fordham.edu
+
 
 $downrank=5,site=polygon.com
 $downrank=5,site=gameinformer.com
